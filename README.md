@@ -32,6 +32,20 @@ Health (Child care) with QnA Bot
 ### Project Description :
 
 
+
+##Screenshots:
+
+
+![Screenshot (50)](https://user-images.githubusercontent.com/118246688/204325778-217999e4-fac2-4195-a240-ebe6e9ef878e.png)
+![Screenshot (51)](https://user-images.githubusercontent.com/118246688/204325790-66d684ad-cd5a-4d24-a768-b16bd0bfb723.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/118246688/204325796-6c5ca161-1768-4f0a-b268-aa8e4779aec1.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/118246688/204325801-3d9a5d7d-8de0-4eff-a52e-23419702ade4.png)
+![Screenshot (54)](https://user-images.githubusercontent.com/118246688/204325805-45d5d498-745b-4c2a-91eb-c2ed57241350.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/118246688/204325809-152425ec-2741-4ffd-8d41-174b3b048b69.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/118246688/204325811-340f7fd1-20fb-462e-8a6c-2def6019e1ed.png)
+![Screenshot (57)](https://user-images.githubusercontent.com/118246688/204325816-7a7c8505-4c6c-4921-963a-5d459aea806e.png)
+![Screenshot (58)](https://user-images.githubusercontent.com/118246688/204325824-782cc295-d00f-488b-b28e-27da17aee7e2.png)
+
 ## Azure Technology :
 
 -<b>Primary Azure Technology :<b><br>

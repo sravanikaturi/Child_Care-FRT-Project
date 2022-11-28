@@ -1,5 +1,4 @@
-# Child_Care-FRT-Project
-# Child Health Web with QnA Bot</a>
+# Child Care Health Web with QnA Bot</a>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,11 +26,10 @@ Health (Child care) with QnA Bot
 
 
 ### Problem Statement/Opportunity :
-
+Lorem ipsum dolor sit amet.Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.Lorem ipsum dolor sit amet.Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
 
 ### Project Description :
-
-
+We Provide Complete Healthcare For Your Children’s Holistic Development At Physical, Emotional And Social.
 
 ##Screenshots:
 
